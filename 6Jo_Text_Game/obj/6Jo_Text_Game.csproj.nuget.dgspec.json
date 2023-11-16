@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\6JO_TEXT_RPG_\\6Jo_Text_Game\\6Jo_Text_Game.csproj": {}
+    "C:\\Users\\kgwis\\OneDrive\\문서\\GitHub\\6JO_TEXT_RPG_\\6Jo_Text_Game\\6Jo_Text_Game.csproj": {}
   },
   "projects": {
-    "D:\\Github\\6JO_TEXT_RPG_\\6Jo_Text_Game\\6Jo_Text_Game.csproj": {
+    "C:\\Users\\kgwis\\OneDrive\\문서\\GitHub\\6JO_TEXT_RPG_\\6Jo_Text_Game\\6Jo_Text_Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\6JO_TEXT_RPG_\\6Jo_Text_Game\\6Jo_Text_Game.csproj",
+        "projectUniqueName": "C:\\Users\\kgwis\\OneDrive\\문서\\GitHub\\6JO_TEXT_RPG_\\6Jo_Text_Game\\6Jo_Text_Game.csproj",
         "projectName": "6Jo_Text_Game",
-        "projectPath": "D:\\Github\\6JO_TEXT_RPG_\\6Jo_Text_Game\\6Jo_Text_Game.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\6JO_TEXT_RPG_\\6Jo_Text_Game\\obj\\",
+        "projectPath": "C:\\Users\\kgwis\\OneDrive\\문서\\GitHub\\6JO_TEXT_RPG_\\6Jo_Text_Game\\6Jo_Text_Game.csproj",
+        "packagesPath": "C:\\Users\\kgwis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kgwis\\OneDrive\\문서\\GitHub\\6JO_TEXT_RPG_\\6Jo_Text_Game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kgwis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
