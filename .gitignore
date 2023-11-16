@@ -8,6 +8,7 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 *.genruntimeconfig.cache
 *.GeneratedMSBuildEditorConfig.editorconfig
+*.dtbcache.v2
 
 # User-specific files
 *.rsuser
