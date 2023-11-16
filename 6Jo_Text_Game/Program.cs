@@ -172,10 +172,10 @@ public class Skill
 // 속성을 나타내는 열거형
 public enum Attribute
 {
-        Fury,
-        Number,
-        Saturday,
-        Wind
+        화,
+        수,
+        토,
+        풍
 }
 
 // 직업을 나타내는 열거형
