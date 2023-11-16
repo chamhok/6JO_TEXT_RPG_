@@ -1,0 +1,14 @@
+C:\Users\kgwis\source\repos\6Jo_Text_Game\6Jo_Text_Game\obj\Debug\net6.0\6Jo_Text_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgwis\source\repos\6Jo_Text_Game\6Jo_Text_Game\obj\Debug\net6.0\6Jo_Text_Game.AssemblyInfoInputs.cache
+C:\Users\kgwis\source\repos\6Jo_Text_Game\6Jo_Text_Game\obj\Debug\net6.0\6Jo_Text_Game.AssemblyInfo.cs
+C:\Users\kgwis\source\repos\6Jo_Text_Game\6Jo_Text_Game\obj\Debug\net6.0\6Jo_Text_Game.csproj.CoreCompileInputs.cache
+C:\Users\kgwis\source\repos\6Jo_Text_Game\6Jo_Text_Game\bin\Debug\net6.0\6Jo_Text_Game.exe
+C:\Users\kgwis\source\repos\6Jo_Text_Game\6Jo_Text_Game\bin\Debug\net6.0\6Jo_Text_Game.deps.json
+C:\Users\kgwis\source\repos\6Jo_Text_Game\6Jo_Text_Game\bin\Debug\net6.0\6Jo_Text_Game.runtimeconfig.json
+C:\Users\kgwis\source\repos\6Jo_Text_Game\6Jo_Text_Game\bin\Debug\net6.0\6Jo_Text_Game.dll
+C:\Users\kgwis\source\repos\6Jo_Text_Game\6Jo_Text_Game\bin\Debug\net6.0\6Jo_Text_Game.pdb
+C:\Users\kgwis\source\repos\6Jo_Text_Game\6Jo_Text_Game\obj\Debug\net6.0\6Jo_Text_Game.dll
+C:\Users\kgwis\source\repos\6Jo_Text_Game\6Jo_Text_Game\obj\Debug\net6.0\refint\6Jo_Text_Game.dll
+C:\Users\kgwis\source\repos\6Jo_Text_Game\6Jo_Text_Game\obj\Debug\net6.0\6Jo_Text_Game.pdb
+C:\Users\kgwis\source\repos\6Jo_Text_Game\6Jo_Text_Game\obj\Debug\net6.0\6Jo_Text_Game.genruntimeconfig.cache
+C:\Users\kgwis\source\repos\6Jo_Text_Game\6Jo_Text_Game\obj\Debug\net6.0\ref\6Jo_Text_Game.dll
