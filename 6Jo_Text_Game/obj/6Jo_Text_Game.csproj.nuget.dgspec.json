@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\6JO_TEXT_RPG_\\6Jo_Text_Game\\6Jo_Text_Game.csproj": {}
+    "D:\\GitHub\\6JO_TEXT_RPG_\\6Jo_Text_Game\\6Jo_Text_Game.csproj": {}
   },
   "projects": {
-    "D:\\git\\6JO_TEXT_RPG_\\6Jo_Text_Game\\6Jo_Text_Game.csproj": {
+    "D:\\GitHub\\6JO_TEXT_RPG_\\6Jo_Text_Game\\6Jo_Text_Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\6JO_TEXT_RPG_\\6Jo_Text_Game\\6Jo_Text_Game.csproj",
+        "projectUniqueName": "D:\\GitHub\\6JO_TEXT_RPG_\\6Jo_Text_Game\\6Jo_Text_Game.csproj",
         "projectName": "6Jo_Text_Game",
-        "projectPath": "D:\\git\\6JO_TEXT_RPG_\\6Jo_Text_Game\\6Jo_Text_Game.csproj",
-        "packagesPath": "C:\\Users\\op284\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\6JO_TEXT_RPG_\\6Jo_Text_Game\\obj\\",
+        "projectPath": "D:\\GitHub\\6JO_TEXT_RPG_\\6Jo_Text_Game\\6Jo_Text_Game.csproj",
+        "packagesPath": "C:\\Users\\shg68\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\6JO_TEXT_RPG_\\6Jo_Text_Game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\op284\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shg68\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
