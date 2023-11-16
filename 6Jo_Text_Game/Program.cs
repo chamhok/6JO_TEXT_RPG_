@@ -206,7 +206,7 @@ class Program
                 character.Add(new Character("ㅇㅇ", 1, 1, 1, 1, 1, 2, Job.가디언, Attribute.풍));
                 character.Add();
                 GameData.I.GetCharacters().Select(x => x.ToString()).ToList().ForEach(Console.WriteLine);
-        Console.WriteLine(      );
+        Console.WriteLine("TT"      );
         Console.WriteLine();
 
     }
