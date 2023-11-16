@@ -181,19 +181,19 @@ public enum Attribute
 // 직업을 나타내는 열거형
 public enum Job
 {
-        Guardian,
-        Wizard,
-        Ranger,
-        Priest
+        가디언,
+        위자드,
+        레인저,
+        성직자
 }
 
 // 종족을 나타내는 열거형
 public enum Species
 {
-        Goblin,
-        Gargoyle,
-        Kobold,
-        Dragon
+        고블린,
+        가고일,
+        코볼트,
+        드래곤
 }
 
 // 프로그램 진입점 클래스
@@ -202,8 +202,8 @@ class Program
         static void Main()
         {
                 // 캐릭터 생성 및 게임 데이터에 추가 후 목록 출력
-                Character character = new Character("ㅇㅇ", 1, 1, 1, 1, 1, 2, Job.Guardian, Attribute.Fury);
-                character.Add(new Character("ㅇㅇ", 1, 1, 1, 1, 1, 2, Job.Guardian, Attribute.Fury));
+                Character character = new Character("ㅇㅇ", 1, 1, 1, 1, 1, 2, Job.Guardian, Attribute.풍);
+                character.Add(new Character("ㅇㅇ", 1, 1, 1, 1, 1, 2, Job.Guardian, Attribute.풍));
                 character.Add();
                 GameData.I.GetCharacters().Select(x => x.ToString()).ToList().ForEach(Console.WriteLine);
         }
