@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kgwis\\.nuget\\packages\\": {}
+    "C:\\Users\\shg68\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kgwis\\OneDrive\\문서\\GitHub\\6JO_TEXT_RPG_\\6Jo_Text_Game\\6Jo_Text_Game.csproj",
+      "projectUniqueName": "D:\\GitHub\\6JO_TEXT_RPG_\\6Jo_Text_Game\\6Jo_Text_Game.csproj",
       "projectName": "6Jo_Text_Game",
-      "projectPath": "C:\\Users\\kgwis\\OneDrive\\문서\\GitHub\\6JO_TEXT_RPG_\\6Jo_Text_Game\\6Jo_Text_Game.csproj",
-      "packagesPath": "C:\\Users\\kgwis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kgwis\\OneDrive\\문서\\GitHub\\6JO_TEXT_RPG_\\6Jo_Text_Game\\obj\\",
+      "projectPath": "D:\\GitHub\\6JO_TEXT_RPG_\\6Jo_Text_Game\\6Jo_Text_Game.csproj",
+      "packagesPath": "C:\\Users\\shg68\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\6JO_TEXT_RPG_\\6Jo_Text_Game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kgwis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shg68\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

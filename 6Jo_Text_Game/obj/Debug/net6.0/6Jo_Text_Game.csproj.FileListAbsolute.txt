@@ -26,3 +26,17 @@ C:\Users\kgwis\OneDrive\문서\GitHub\6JO_TEXT_RPG_\6Jo_Text_Game\bin\Debug\net6
 C:\Users\kgwis\OneDrive\문서\GitHub\6JO_TEXT_RPG_\6Jo_Text_Game\bin\Debug\net6.0\6Jo_Text_Game.pdb
 C:\Users\kgwis\OneDrive\문서\GitHub\6JO_TEXT_RPG_\6Jo_Text_Game\obj\Debug\net6.0\6Jo_Text_Game.genruntimeconfig.cache
 C:\Users\kgwis\OneDrive\문서\GitHub\6JO_TEXT_RPG_\6Jo_Text_Game\obj\Debug\net6.0\ref\6Jo_Text_Game.dll
+D:\GitHub\6JO_TEXT_RPG_\6Jo_Text_Game\bin\Debug\net6.0\6Jo_Text_Game.exe
+D:\GitHub\6JO_TEXT_RPG_\6Jo_Text_Game\bin\Debug\net6.0\6Jo_Text_Game.deps.json
+D:\GitHub\6JO_TEXT_RPG_\6Jo_Text_Game\bin\Debug\net6.0\6Jo_Text_Game.runtimeconfig.json
+D:\GitHub\6JO_TEXT_RPG_\6Jo_Text_Game\bin\Debug\net6.0\6Jo_Text_Game.dll
+D:\GitHub\6JO_TEXT_RPG_\6Jo_Text_Game\bin\Debug\net6.0\6Jo_Text_Game.pdb
+D:\GitHub\6JO_TEXT_RPG_\6Jo_Text_Game\obj\Debug\net6.0\6Jo_Text_Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\6JO_TEXT_RPG_\6Jo_Text_Game\obj\Debug\net6.0\6Jo_Text_Game.AssemblyInfoInputs.cache
+D:\GitHub\6JO_TEXT_RPG_\6Jo_Text_Game\obj\Debug\net6.0\6Jo_Text_Game.AssemblyInfo.cs
+D:\GitHub\6JO_TEXT_RPG_\6Jo_Text_Game\obj\Debug\net6.0\6Jo_Text_Game.csproj.CoreCompileInputs.cache
+D:\GitHub\6JO_TEXT_RPG_\6Jo_Text_Game\obj\Debug\net6.0\6Jo_Text_Game.dll
+D:\GitHub\6JO_TEXT_RPG_\6Jo_Text_Game\obj\Debug\net6.0\refint\6Jo_Text_Game.dll
+D:\GitHub\6JO_TEXT_RPG_\6Jo_Text_Game\obj\Debug\net6.0\6Jo_Text_Game.pdb
+D:\GitHub\6JO_TEXT_RPG_\6Jo_Text_Game\obj\Debug\net6.0\6Jo_Text_Game.genruntimeconfig.cache
+D:\GitHub\6JO_TEXT_RPG_\6Jo_Text_Game\obj\Debug\net6.0\ref\6Jo_Text_Game.dll
