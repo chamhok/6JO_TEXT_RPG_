@@ -202,8 +202,8 @@ class Program
         static void Main()
         {
                 // 캐릭터 생성 및 게임 데이터에 추가 후 목록 출력
-                Character character = new Character("ㅇㅇ", 1, 1, 1, 1, 1, 2, Job.Guardian, Attribute.풍);
-                character.Add(new Character("ㅇㅇ", 1, 1, 1, 1, 1, 2, Job.Guardian, Attribute.풍));
+                Character character = new Character("ㅇㅇ", 1, 1, 1, 1, 1, 2, Job.가디언, Attribute.풍);
+                character.Add(new Character("ㅇㅇ", 1, 1, 1, 1, 1, 2, Job.가디언, Attribute.풍));
                 character.Add();
                 GameData.I.GetCharacters().Select(x => x.ToString()).ToList().ForEach(Console.WriteLine);
         }
