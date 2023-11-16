@@ -4,6 +4,7 @@ using System.Collections.Generic;
 // 게임 데이터를 저장하는 싱글톤 클래스 정의
 public class GameData
 {
+        //sunkun
         private static GameData Instance;
 
         // 몬스터 및 캐릭터를 저장하는 데이터 구조
