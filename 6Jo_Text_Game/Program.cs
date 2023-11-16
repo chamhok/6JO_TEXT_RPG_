@@ -207,7 +207,7 @@ class Program
                 character.Add();
                 GameData.I.GetCharacters().Select(x => x.ToString()).ToList().ForEach(Console.WriteLine);
         Console.WriteLine(      );
-        Console.WriteLine();
+        Console.WriteLine("TEST");
 
     }
 }
