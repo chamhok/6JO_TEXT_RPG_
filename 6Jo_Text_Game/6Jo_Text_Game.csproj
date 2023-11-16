@@ -9,6 +9,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="새 폴더\**" />
+    <EmbeddedResource Remove="새 폴더\**" />
+    <None Remove="새 폴더\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Remove="DataManager.cs" />
     <Compile Remove="GameManager.cs" />
     <Compile Remove="SceneManager.cs" />
